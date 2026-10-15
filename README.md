@@ -7,7 +7,7 @@ A beginner-friendly Python data-analysis project that uses **Python, NumPy, and 
 - Reads a CSV dataset into a Pandas DataFrame.
 - Checks that required columns are present.
 - Calculates each student's total and average marks.
-- Assigns grades using a documented grading scale.
+- Assigns grades using a documented grading scale. 
 - Identifies pass/fail status using a clear rule.
 - Reports class averages, highest/lowest averages, pass count, fail count, pass percentage, and attendance average.
 - Compares subject-wise averages, highest marks, and lowest marks.
