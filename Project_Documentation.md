@@ -7,7 +7,6 @@
 **Course:** Python with AI  
 **Institute/training provider:** EWB Courses  
 **GitHub repository:** https://github.com/riddhimamehra/student-performance-analytics
-
 **Submission date:** 15 October 2026
 
 ## 2. Objective
