@@ -3,10 +3,10 @@
 ## 1. Project Title and Student Details
 
 **Project title:** Student Performance Analytics System  
-**Student name:** [Enter your name]  
+**Student name:** Riddhima Mehra  
 **Course:** Python with AI  
 **Institute/training provider:** EWB Courses  
-**GitHub repository:** [Paste your repository URL here]  
+**GitHub repository:**   https://github.com/riddhimamehra/student-performance-analytics
 **Submission date:** 15 October 2026
 
 ## 2. Objective
@@ -98,9 +98,3 @@ The system processes a student dataset and presents readable information about m
 **How they were handled:** The calculations were separated into reusable functions. The dataset columns are validated before analysis. The grading and pass/fail rules are documented so that the output is understandable.
 
 **Learning outcomes:** I practiced loading CSV data, working with Pandas DataFrames, using NumPy for numerical calculations, writing functions, using conditions and iteration, sorting and grouping data, and documenting a Python project.
-
-## 11. GitHub Repository
-
-**Repository URL:** [Paste your final GitHub repository URL here]
-
-Before submission, push the project files to GitHub, open the repository in a browser to confirm that the files are visible, and submit the URL through the Google Form provided by EWB Courses.
