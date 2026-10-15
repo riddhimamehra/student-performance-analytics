@@ -85,18 +85,3 @@ Python 3.10 or newer is recommended.
    ```
 
 The program prints its analysis in the terminal and writes detailed calculated results to `student_results.csv`.
-
-## GitHub submission checklist
-
-- [ ] Run `python main.py` and check that it completes successfully.
-- [ ] Review `student_results.csv` and the terminal output.
-- [ ] Replace sample records only if your trainer requires your own dataset.
-- [ ] Add your name and final GitHub URL to `Project_Documentation.md`.
-- [ ] Create a public repository if required by your trainer.
-- [ ] Push `main.py`, `functions.py`, `data/students.csv`, `requirements.txt`, `README.md`, and `Project_Documentation.md`.
-- [ ] Paste the repository URL into the EWB Google Form.
-- [ ] Submit the Google Form and keep its confirmation.
-
-## Learning note
-
-This project intentionally uses basic data analysis rather than machine learning, in line with the assignment. Be prepared to explain the grade rules, pass/fail condition, NumPy calculations, and Pandas operations in your own words.
